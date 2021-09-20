@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+main{
+    padding: 3em;
+}
+
+.row{
+    margin-bottom: 10px;
+}
+
+.button-container{
+    margin-top: 10px;
+}
+
+.postpone-class{
+    margin-top: 30px;
+}
+
+.postpone-class input{
+    width: 5%;
+}
+
+.postpone-class button{
+    margin-top: 10px;
+}
+
+header{
+    text-align: center;
+    padding: 1em;
+    background-color: gray;
+    color: white;
+}
+
+footer{
+    padding: 1em;
+}
